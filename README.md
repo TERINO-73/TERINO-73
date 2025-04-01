@@ -72,7 +72,6 @@
 
 
 ![TERINO-73's Stats](https://github-readme-stats.vercel.app/api?username=TERINO-73&theme=onedark&show_icons=true&hide_border=false&count_private=true)
-![TERINO-73's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TERINO-73&theme=onedark&hide_border=false)
 ![TERINO-73's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TERINO-73&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
 
