@@ -70,9 +70,10 @@
 
 <div align="center">
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TERINO-73&theme=onedark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TERINO-73&layout=normal&theme=onedark)
 
-![TERINO-73's Stats](https://github-readme-stats.vercel.app/api?username=TERINO-73&theme=onedark&show_icons=true&hide_border=false&count_private=true)
-![TERINO-73's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TERINO-73&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+
 
 
  <h3 align="center">Visitor Count</h3>
